@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Java SpringBoot security application utilizing Microsoft Defender and Jira APIs and OAuth2 callback. <br>I'm currently learning frontend.
+I'm currently working on a Java SpringBoot security application utilizing Microsoft Defender, Jira APIs and OAuth2 callback. <br>I'm currently learning frontend.
 
 
 ## 🌐 Socials:
